@@ -2,7 +2,7 @@
 1.CTRL+x+s
 2.CTRL+a moving to begining of line, CTRL+k cutting to the end of line
 3.CTRL+y, ALT+y pastes previously cutted text
-4.CTRL+S
+4.CTRL+s
 5.CTRL+/ or CTRL+_ (CTRL+SHFT+-) or CTRL+x u
 6. CTRL+x+c
 7. i
